@@ -1,4 +1,4 @@
-# Machine Learning Basics – Linear & Logistic Regression
+# Machine Learning – Linear & Logistic Regression
 
 This repository demonstrates the implementation of **Linear Regression** and **Logistic Regression** using Python, NumPy, Pandas, Matplotlib, and Scikit-learn.
 
